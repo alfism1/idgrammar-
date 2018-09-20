@@ -1,0 +1,4 @@
+Aku	VB
+makan	VB
+bakso	NN
+

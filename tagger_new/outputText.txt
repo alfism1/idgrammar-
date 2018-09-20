@@ -1,0 +1,2 @@
+suhu	VB
+dingin	RB

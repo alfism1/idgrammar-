@@ -1,0 +1,7 @@
+Fam	NNP
+sedang	JJ,CC,MD 
+memasak	VB
+nasi	NN
+untuk	SC 
+makan	VB
+

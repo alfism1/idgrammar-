@@ -1,0 +1,2 @@
+pergi	^pergi<v>_VSA$
+kepasar	^kepasar<x>_X--$

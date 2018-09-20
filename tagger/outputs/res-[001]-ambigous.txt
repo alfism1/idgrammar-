@@ -1,0 +1,8 @@
+
+saya	PRP
+pergi	VB
+kepasar	
+.	Z
+
+
+

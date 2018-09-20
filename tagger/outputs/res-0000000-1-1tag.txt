@@ -1,0 +1,7 @@
+Fam
+sedang	CC,JJ,MD
+memasak
+nasi
+untuk	SC,IN
+makan
+
